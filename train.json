@@ -27,12 +27,12 @@
     },
     {
       "name": "Rainbow Brush",
-      "price": 400337,
+      "price": 399859,
       "hrid": "/items/rainbow_brush"
     },
     {
       "name": "Holy Brush",
-      "price": 791302,
+      "price": 790824,
       "hrid": "/items/holy_brush"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "name": "Rainbow Shears",
-      "price": 400337,
+      "price": 399859,
       "hrid": "/items/rainbow_shears"
     },
     {
       "name": "Holy Shears",
-      "price": 791302,
+      "price": 790824,
       "hrid": "/items/holy_shears"
     },
     {
@@ -97,12 +97,12 @@
     },
     {
       "name": "Rainbow Hatchet",
-      "price": 400337,
+      "price": 399859,
       "hrid": "/items/rainbow_hatchet"
     },
     {
       "name": "Holy Hatchet",
-      "price": 791302,
+      "price": 790824,
       "hrid": "/items/holy_hatchet"
     },
     {
@@ -132,12 +132,12 @@
     },
     {
       "name": "Rainbow Hammer",
-      "price": 400501,
+      "price": 400024,
       "hrid": "/items/rainbow_hammer"
     },
     {
       "name": "Holy Hammer",
-      "price": 791642,
+      "price": 791165,
       "hrid": "/items/holy_hammer"
     },
     {
@@ -167,12 +167,12 @@
     },
     {
       "name": "Rainbow Chisel",
-      "price": 400501,
+      "price": 400024,
       "hrid": "/items/rainbow_chisel"
     },
     {
       "name": "Holy Chisel",
-      "price": 791642,
+      "price": 791165,
       "hrid": "/items/holy_chisel"
     },
     {
@@ -447,12 +447,12 @@
     },
     {
       "name": "Rainbow Spear",
-      "price": 504495,
+      "price": 503540,
       "hrid": "/items/rainbow_spear"
     },
     {
       "name": "Holy Spear",
-      "price": 992748,
+      "price": 991793,
       "hrid": "/items/holy_spear"
     },
     {
@@ -482,12 +482,12 @@
     },
     {
       "name": "Rainbow Mace",
-      "price": 504662,
+      "price": 503707,
       "hrid": "/items/rainbow_mace"
     },
     {
       "name": "Holy Mace",
-      "price": 993092,
+      "price": 992137,
       "hrid": "/items/holy_mace"
     },
     {
@@ -712,17 +712,17 @@
     },
     {
       "name": "Gobo Hood",
-      "price": 58708,
+      "price": 57101,
       "hrid": "/items/gobo_hood"
     },
     {
       "name": "Beast Hood",
-      "price": 146813,
+      "price": 145206,
       "hrid": "/items/beast_hood"
     },
     {
       "name": "Umbral Hood",
-      "price": 380947,
+      "price": 379340,
       "hrid": "/items/umbral_hood"
     },
     {
@@ -742,12 +742,12 @@
     },
     {
       "name": "Silk Hat",
-      "price": 158706,
+      "price": 161461,
       "hrid": "/items/silk_hat"
     },
     {
       "name": "Radiant Hat",
-      "price": 442432,
+      "price": 445187,
       "hrid": "/items/radiant_hat"
     },
     {
@@ -762,17 +762,17 @@
     },
     {
       "name": "Gobo Tunic",
-      "price": 91831,
+      "price": 89260,
       "hrid": "/items/gobo_tunic"
     },
     {
       "name": "Beast Tunic",
-      "price": 229730,
+      "price": 227158,
       "hrid": "/items/beast_tunic"
     },
     {
       "name": "Umbral Tunic",
-      "price": 598225,
+      "price": 595654,
       "hrid": "/items/umbral_tunic"
     },
     {
@@ -792,12 +792,12 @@
     },
     {
       "name": "Silk Robe Top",
-      "price": 248758,
+      "price": 253166,
       "hrid": "/items/silk_robe_top"
     },
     {
       "name": "Radiant Robe Top",
-      "price": 696601,
+      "price": 701009,
       "hrid": "/items/radiant_robe_top"
     },
     {
@@ -812,17 +812,17 @@
     },
     {
       "name": "Gobo Chaps",
-      "price": 80770,
+      "price": 78520,
       "hrid": "/items/gobo_chaps"
     },
     {
       "name": "Beast Chaps",
-      "price": 202035,
+      "price": 199785,
       "hrid": "/items/beast_chaps"
     },
     {
       "name": "Umbral Chaps",
-      "price": 525661,
+      "price": 523411,
       "hrid": "/items/umbral_chaps"
     },
     {
@@ -842,12 +842,12 @@
     },
     {
       "name": "Silk Robe Bottoms",
-      "price": 218685,
+      "price": 222542,
       "hrid": "/items/silk_robe_bottoms"
     },
     {
       "name": "Radiant Robe Bottoms",
-      "price": 611740,
+      "price": 615597,
       "hrid": "/items/radiant_robe_bottoms"
     },
     {
@@ -862,17 +862,17 @@
     },
     {
       "name": "Gobo Bracers",
-      "price": 47651,
+      "price": 46365,
       "hrid": "/items/gobo_bracers"
     },
     {
       "name": "Beast Bracers",
-      "price": 119129,
+      "price": 117843,
       "hrid": "/items/beast_bracers"
     },
     {
       "name": "Umbral Bracers",
-      "price": 308412,
+      "price": 307126,
       "hrid": "/items/umbral_bracers"
     },
     {
@@ -892,12 +892,12 @@
     },
     {
       "name": "Silk Gloves",
-      "price": 128643,
+      "price": 130847,
       "hrid": "/items/silk_gloves"
     },
     {
       "name": "Radiant Gloves",
-      "price": 357600,
+      "price": 359804,
       "hrid": "/items/radiant_gloves"
     },
     {
@@ -912,17 +912,17 @@
     },
     {
       "name": "Gobo Boots",
-      "price": 47598,
+      "price": 46312,
       "hrid": "/items/gobo_boots"
     },
     {
       "name": "Beast Boots",
-      "price": 118984,
+      "price": 117698,
       "hrid": "/items/beast_boots"
     },
     {
       "name": "Umbral Boots",
-      "price": 308058,
+      "price": 306772,
       "hrid": "/items/umbral_boots"
     },
     {
@@ -942,12 +942,12 @@
     },
     {
       "name": "Silk Boots",
-      "price": 128498,
+      "price": 130702,
       "hrid": "/items/silk_boots"
     },
     {
       "name": "Radiant Boots",
-      "price": 357245,
+      "price": 359449,
       "hrid": "/items/radiant_boots"
     },
     {
@@ -977,12 +977,12 @@
     },
     {
       "name": "Redwood Crossbow",
-      "price": 565963,
+      "price": 560591,
       "hrid": "/items/redwood_crossbow"
     },
     {
       "name": "Arcane Crossbow",
-      "price": 1084373,
+      "price": 1079001,
       "hrid": "/items/arcane_crossbow"
     },
     {
@@ -1012,12 +1012,12 @@
     },
     {
       "name": "Redwood Water Staff",
-      "price": 565963,
+      "price": 560591,
       "hrid": "/items/redwood_water_staff"
     },
     {
       "name": "Arcane Water Staff",
-      "price": 1084373,
+      "price": 1079001,
       "hrid": "/items/arcane_water_staff"
     },
     {
@@ -1047,12 +1047,12 @@
     },
     {
       "name": "Redwood Nature Staff",
-      "price": 566204,
+      "price": 560832,
       "hrid": "/items/redwood_nature_staff"
     },
     {
       "name": "Arcane Nature Staff",
-      "price": 1084873,
+      "price": 1079500,
       "hrid": "/items/arcane_nature_staff"
     },
     {
@@ -1082,12 +1082,12 @@
     },
     {
       "name": "Redwood Fire Staff",
-      "price": 566455,
+      "price": 561083,
       "hrid": "/items/redwood_fire_staff"
     },
     {
       "name": "Arcane Fire Staff",
-      "price": 1085393,
+      "price": 1080021,
       "hrid": "/items/arcane_fire_staff"
     },
     {
@@ -1117,12 +1117,12 @@
     },
     {
       "name": "Redwood Bow",
-      "price": 748620,
+      "price": 741457,
       "hrid": "/items/redwood_bow"
     },
     {
       "name": "Arcane Bow",
-      "price": 1436080,
+      "price": 1428916,
       "hrid": "/items/arcane_bow"
     },
     {
@@ -1152,14 +1152,14 @@
     },
     {
       "name": "Redwood Shield",
-      "price": 383289,
+      "price": 379707,
       "hrid": "/items/redwood_shield"
     },
     {
       "name": "Arcane Shield",
-      "price": 733258,
+      "price": 729676,
       "hrid": "/items/arcane_shield"
     }
   ],
-  "time": 1764968260.535
+  "time": 1764969160.688
 }
