@@ -732,22 +732,22 @@
     },
     {
       "name": "Linen Hat",
-      "price": 25078,
+      "price": 25445,
       "hrid": "/items/linen_hat"
     },
     {
       "name": "Bamboo Hat",
-      "price": 44778,
+      "price": 44502,
       "hrid": "/items/bamboo_hat"
     },
     {
       "name": "Silk Hat",
-      "price": 188026,
+      "price": 190505,
       "hrid": "/items/silk_hat"
     },
     {
       "name": "Radiant Hat",
-      "price": 496632,
+      "price": 499111,
       "hrid": "/items/radiant_hat"
     },
     {
@@ -782,22 +782,22 @@
     },
     {
       "name": "Linen Robe Top",
-      "price": 39334,
+      "price": 39922,
       "hrid": "/items/linen_robe_top"
     },
     {
       "name": "Bamboo Robe Top",
-      "price": 69526,
+      "price": 69085,
       "hrid": "/items/bamboo_robe_top"
     },
     {
       "name": "Silk Robe Top",
-      "price": 295631,
+      "price": 299598,
       "hrid": "/items/silk_robe_top"
     },
     {
       "name": "Radiant Robe Top",
-      "price": 783235,
+      "price": 787202,
       "hrid": "/items/radiant_robe_top"
     },
     {
@@ -832,22 +832,22 @@
     },
     {
       "name": "Linen Robe Bottoms",
-      "price": 34575,
+      "price": 35090,
       "hrid": "/items/linen_robe_bottoms"
     },
     {
       "name": "Bamboo Robe Bottoms",
-      "price": 61256,
+      "price": 60870,
       "hrid": "/items/bamboo_robe_bottoms"
     },
     {
       "name": "Silk Robe Bottoms",
-      "price": 259706,
+      "price": 263178,
       "hrid": "/items/silk_robe_bottoms"
     },
     {
       "name": "Radiant Robe Bottoms",
-      "price": 687561,
+      "price": 691033,
       "hrid": "/items/radiant_robe_bottoms"
     },
     {
@@ -882,22 +882,22 @@
     },
     {
       "name": "Linen Gloves",
-      "price": 20320,
+      "price": 20614,
       "hrid": "/items/linen_gloves"
     },
     {
       "name": "Bamboo Gloves",
-      "price": 36511,
+      "price": 36291,
       "hrid": "/items/bamboo_gloves"
     },
     {
       "name": "Silk Gloves",
-      "price": 152112,
+      "price": 154096,
       "hrid": "/items/silk_gloves"
     },
     {
       "name": "Radiant Gloves",
-      "price": 400988,
+      "price": 402971,
       "hrid": "/items/radiant_gloves"
     },
     {
@@ -932,22 +932,22 @@
     },
     {
       "name": "Linen Boots",
-      "price": 20302,
+      "price": 20596,
       "hrid": "/items/linen_boots"
     },
     {
       "name": "Bamboo Boots",
-      "price": 36458,
+      "price": 36238,
       "hrid": "/items/bamboo_boots"
     },
     {
       "name": "Silk Boots",
-      "price": 151966,
+      "price": 153950,
       "hrid": "/items/silk_boots"
     },
     {
       "name": "Radiant Boots",
-      "price": 400631,
+      "price": 402614,
       "hrid": "/items/radiant_boots"
     },
     {
@@ -1127,39 +1127,39 @@
     },
     {
       "name": "Wooden Shield",
-      "price": 4887,
+      "price": 4998,
       "hrid": "/items/wooden_shield"
     },
     {
       "name": "Birch Shield",
-      "price": 16805,
+      "price": 16915,
       "hrid": "/items/birch_shield"
     },
     {
       "name": "Cedar Shield",
-      "price": 49845,
+      "price": 49955,
       "hrid": "/items/cedar_shield"
     },
     {
       "name": "Purpleheart Shield",
-      "price": 117933,
+      "price": 118043,
       "hrid": "/items/purpleheart_shield"
     },
     {
       "name": "Ginkgo Shield",
-      "price": 242988,
+      "price": 243098,
       "hrid": "/items/ginkgo_shield"
     },
     {
       "name": "Redwood Shield",
-      "price": 446710,
+      "price": 446820,
       "hrid": "/items/redwood_shield"
     },
     {
       "name": "Arcane Shield",
-      "price": 786859,
+      "price": 786969,
       "hrid": "/items/arcane_shield"
     }
   ],
-  "time": 1767043661.134
+  "time": 1767044561.072
 }
