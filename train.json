@@ -712,17 +712,17 @@
     },
     {
       "name": "Gobo Hood",
-      "price": 71513,
+      "price": 73120,
       "hrid": "/items/gobo_hood"
     },
     {
       "name": "Beast Hood",
-      "price": 162429,
+      "price": 164037,
       "hrid": "/items/beast_hood"
     },
     {
       "name": "Umbral Hood",
-      "price": 396678,
+      "price": 398286,
       "hrid": "/items/umbral_hood"
     },
     {
@@ -762,17 +762,17 @@
     },
     {
       "name": "Gobo Tunic",
-      "price": 112296,
+      "price": 114867,
       "hrid": "/items/gobo_tunic"
     },
     {
       "name": "Beast Tunic",
-      "price": 254662,
+      "price": 257233,
       "hrid": "/items/beast_tunic"
     },
     {
       "name": "Umbral Tunic",
-      "price": 623278,
+      "price": 625849,
       "hrid": "/items/umbral_tunic"
     },
     {
@@ -812,17 +812,17 @@
     },
     {
       "name": "Gobo Chaps",
-      "price": 98681,
+      "price": 100931,
       "hrid": "/items/gobo_chaps"
     },
     {
       "name": "Beast Chaps",
-      "price": 223861,
+      "price": 226111,
       "hrid": "/items/beast_chaps"
     },
     {
       "name": "Umbral Chaps",
-      "price": 547605,
+      "price": 549855,
       "hrid": "/items/umbral_chaps"
     },
     {
@@ -862,17 +862,17 @@
     },
     {
       "name": "Gobo Bracers",
-      "price": 57901,
+      "price": 59187,
       "hrid": "/items/gobo_bracers"
     },
     {
       "name": "Beast Bracers",
-      "price": 131640,
+      "price": 132925,
       "hrid": "/items/beast_bracers"
     },
     {
       "name": "Umbral Bracers",
-      "price": 321036,
+      "price": 322321,
       "hrid": "/items/umbral_bracers"
     },
     {
@@ -912,17 +912,17 @@
     },
     {
       "name": "Gobo Boots",
-      "price": 57848,
+      "price": 59134,
       "hrid": "/items/gobo_boots"
     },
     {
       "name": "Beast Boots",
-      "price": 131493,
+      "price": 132779,
       "hrid": "/items/beast_boots"
     },
     {
       "name": "Umbral Boots",
-      "price": 320678,
+      "price": 321963,
       "hrid": "/items/umbral_boots"
     },
     {
@@ -972,17 +972,17 @@
     },
     {
       "name": "Ginkgo Crossbow",
-      "price": 361901,
+      "price": 358182,
       "hrid": "/items/ginkgo_crossbow"
     },
     {
       "name": "Redwood Crossbow",
-      "price": 647938,
+      "price": 644219,
       "hrid": "/items/redwood_crossbow"
     },
     {
       "name": "Arcane Crossbow",
-      "price": 1121847,
+      "price": 1118128,
       "hrid": "/items/arcane_crossbow"
     },
     {
@@ -1007,17 +1007,17 @@
     },
     {
       "name": "Ginkgo Water Staff",
-      "price": 361901,
+      "price": 358182,
       "hrid": "/items/ginkgo_water_staff"
     },
     {
       "name": "Redwood Water Staff",
-      "price": 647938,
+      "price": 644219,
       "hrid": "/items/redwood_water_staff"
     },
     {
       "name": "Arcane Water Staff",
-      "price": 1121847,
+      "price": 1118128,
       "hrid": "/items/arcane_water_staff"
     },
     {
@@ -1042,17 +1042,17 @@
     },
     {
       "name": "Ginkgo Nature Staff",
-      "price": 362021,
+      "price": 358301,
       "hrid": "/items/ginkgo_nature_staff"
     },
     {
       "name": "Redwood Nature Staff",
-      "price": 648181,
+      "price": 644462,
       "hrid": "/items/redwood_nature_staff"
     },
     {
       "name": "Arcane Nature Staff",
-      "price": 1122352,
+      "price": 1118633,
       "hrid": "/items/arcane_nature_staff"
     },
     {
@@ -1077,17 +1077,17 @@
     },
     {
       "name": "Ginkgo Fire Staff",
-      "price": 362145,
+      "price": 358426,
       "hrid": "/items/ginkgo_fire_staff"
     },
     {
       "name": "Redwood Fire Staff",
-      "price": 648435,
+      "price": 644716,
       "hrid": "/items/redwood_fire_staff"
     },
     {
       "name": "Arcane Fire Staff",
-      "price": 1122878,
+      "price": 1119159,
       "hrid": "/items/arcane_fire_staff"
     },
     {
@@ -1112,17 +1112,17 @@
     },
     {
       "name": "Ginkgo Bow",
-      "price": 478506,
+      "price": 473547,
       "hrid": "/items/ginkgo_bow"
     },
     {
       "name": "Redwood Bow",
-      "price": 857875,
+      "price": 852916,
       "hrid": "/items/redwood_bow"
     },
     {
       "name": "Arcane Bow",
-      "price": 1485961,
+      "price": 1481001,
       "hrid": "/items/arcane_bow"
     },
     {
@@ -1147,19 +1147,19 @@
     },
     {
       "name": "Ginkgo Shield",
-      "price": 245214,
+      "price": 242734,
       "hrid": "/items/ginkgo_shield"
     },
     {
       "name": "Redwood Shield",
-      "price": 438210,
+      "price": 435730,
       "hrid": "/items/redwood_shield"
     },
     {
       "name": "Arcane Shield",
-      "price": 758558,
+      "price": 756078,
       "hrid": "/items/arcane_shield"
     }
   ],
-  "time": 1771186360.298
+  "time": 1771187260.511
 }
