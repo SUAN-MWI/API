@@ -722,7 +722,7 @@
     },
     {
       "name": "Umbral Hood",
-      "price": 401035,
+      "price": 396902,
       "hrid": "/items/umbral_hood"
     },
     {
@@ -732,22 +732,22 @@
     },
     {
       "name": "Linen Hat",
-      "price": 15898,
+      "price": 16265,
       "hrid": "/items/linen_hat"
     },
     {
       "name": "Bamboo Hat",
-      "price": 39461,
+      "price": 39828,
       "hrid": "/items/bamboo_hat"
     },
     {
       "name": "Silk Hat",
-      "price": 177213,
+      "price": 180335,
       "hrid": "/items/silk_hat"
     },
     {
       "name": "Radiant Hat",
-      "price": 510642,
+      "price": 513765,
       "hrid": "/items/radiant_hat"
     },
     {
@@ -772,7 +772,7 @@
     },
     {
       "name": "Umbral Tunic",
-      "price": 630251,
+      "price": 623639,
       "hrid": "/items/umbral_tunic"
     },
     {
@@ -782,22 +782,22 @@
     },
     {
       "name": "Linen Robe Top",
-      "price": 24644,
+      "price": 25232,
       "hrid": "/items/linen_robe_top"
     },
     {
       "name": "Bamboo Robe Top",
-      "price": 61013,
+      "price": 61601,
       "hrid": "/items/bamboo_robe_top"
     },
     {
       "name": "Silk Robe Top",
-      "price": 278316,
+      "price": 283312,
       "hrid": "/items/silk_robe_top"
     },
     {
       "name": "Radiant Robe Top",
-      "price": 805623,
+      "price": 810619,
       "hrid": "/items/radiant_robe_top"
     },
     {
@@ -822,7 +822,7 @@
     },
     {
       "name": "Umbral Chaps",
-      "price": 553706,
+      "price": 547921,
       "hrid": "/items/umbral_chaps"
     },
     {
@@ -832,22 +832,22 @@
     },
     {
       "name": "Linen Robe Bottoms",
-      "price": 21722,
+      "price": 22236,
       "hrid": "/items/linen_robe_bottoms"
     },
     {
       "name": "Bamboo Robe Bottoms",
-      "price": 53808,
+      "price": 54323,
       "hrid": "/items/bamboo_robe_bottoms"
     },
     {
       "name": "Silk Robe Bottoms",
-      "price": 244558,
+      "price": 248930,
       "hrid": "/items/silk_robe_bottoms"
     },
     {
       "name": "Radiant Robe Bottoms",
-      "price": 707156,
+      "price": 711528,
       "hrid": "/items/radiant_robe_bottoms"
     },
     {
@@ -872,7 +872,7 @@
     },
     {
       "name": "Umbral Bracers",
-      "price": 324520,
+      "price": 321214,
       "hrid": "/items/umbral_bracers"
     },
     {
@@ -882,22 +882,22 @@
     },
     {
       "name": "Linen Gloves",
-      "price": 12976,
+      "price": 13270,
       "hrid": "/items/linen_gloves"
     },
     {
       "name": "Bamboo Gloves",
-      "price": 32259,
+      "price": 32553,
       "hrid": "/items/bamboo_gloves"
     },
     {
       "name": "Silk Gloves",
-      "price": 143466,
+      "price": 145964,
       "hrid": "/items/silk_gloves"
     },
     {
       "name": "Radiant Gloves",
-      "price": 412206,
+      "price": 414704,
       "hrid": "/items/radiant_gloves"
     },
     {
@@ -922,7 +922,7 @@
     },
     {
       "name": "Umbral Boots",
-      "price": 324162,
+      "price": 320856,
       "hrid": "/items/umbral_boots"
     },
     {
@@ -932,22 +932,22 @@
     },
     {
       "name": "Linen Boots",
-      "price": 12959,
+      "price": 13253,
       "hrid": "/items/linen_boots"
     },
     {
       "name": "Bamboo Boots",
-      "price": 32206,
+      "price": 32500,
       "hrid": "/items/bamboo_boots"
     },
     {
       "name": "Silk Boots",
-      "price": 143319,
+      "price": 145817,
       "hrid": "/items/silk_boots"
     },
     {
       "name": "Radiant Boots",
-      "price": 411848,
+      "price": 414345,
       "hrid": "/items/radiant_boots"
     },
     {
@@ -1127,39 +1127,39 @@
     },
     {
       "name": "Wooden Shield",
-      "price": 5109,
+      "price": 5219,
       "hrid": "/items/wooden_shield"
     },
     {
       "name": "Birch Shield",
-      "price": 17358,
+      "price": 17469,
       "hrid": "/items/birch_shield"
     },
     {
       "name": "Cedar Shield",
-      "price": 50401,
+      "price": 50511,
       "hrid": "/items/cedar_shield"
     },
     {
       "name": "Purpleheart Shield",
-      "price": 115188,
+      "price": 115299,
       "hrid": "/items/purpleheart_shield"
     },
     {
       "name": "Ginkgo Shield",
-      "price": 242732,
+      "price": 242842,
       "hrid": "/items/ginkgo_shield"
     },
     {
       "name": "Redwood Shield",
-      "price": 439308,
+      "price": 439418,
       "hrid": "/items/redwood_shield"
     },
     {
       "name": "Arcane Shield",
-      "price": 769570,
+      "price": 769681,
       "hrid": "/items/arcane_shield"
     }
   ],
-  "time": 1771563461.142
+  "time": 1771564360.823
 }
