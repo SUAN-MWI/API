@@ -7,32 +7,32 @@
     },
     {
       "name": "Verdant Brush",
-      "price": 23265,
+      "price": 23287,
       "hrid": "/items/verdant_brush"
     },
     {
       "name": "Azure Brush",
-      "price": 62918,
+      "price": 62940,
       "hrid": "/items/azure_brush"
     },
     {
       "name": "Burble Brush",
-      "price": 138446,
+      "price": 138688,
       "hrid": "/items/burble_brush"
     },
     {
       "name": "Crimson Brush",
-      "price": 278254,
+      "price": 278496,
       "hrid": "/items/crimson_brush"
     },
     {
       "name": "Rainbow Brush",
-      "price": 559922,
+      "price": 552523,
       "hrid": "/items/rainbow_brush"
     },
     {
       "name": "Holy Brush",
-      "price": 1111832,
+      "price": 1104434,
       "hrid": "/items/holy_brush"
     },
     {
@@ -42,32 +42,32 @@
     },
     {
       "name": "Verdant Shears",
-      "price": 23265,
+      "price": 23287,
       "hrid": "/items/verdant_shears"
     },
     {
       "name": "Azure Shears",
-      "price": 62918,
+      "price": 62940,
       "hrid": "/items/azure_shears"
     },
     {
       "name": "Burble Shears",
-      "price": 138446,
+      "price": 138688,
       "hrid": "/items/burble_shears"
     },
     {
       "name": "Crimson Shears",
-      "price": 278254,
+      "price": 278496,
       "hrid": "/items/crimson_shears"
     },
     {
       "name": "Rainbow Shears",
-      "price": 559922,
+      "price": 552523,
       "hrid": "/items/rainbow_shears"
     },
     {
       "name": "Holy Shears",
-      "price": 1111832,
+      "price": 1104434,
       "hrid": "/items/holy_shears"
     },
     {
@@ -77,32 +77,32 @@
     },
     {
       "name": "Verdant Hatchet",
-      "price": 23265,
+      "price": 23287,
       "hrid": "/items/verdant_hatchet"
     },
     {
       "name": "Azure Hatchet",
-      "price": 62918,
+      "price": 62940,
       "hrid": "/items/azure_hatchet"
     },
     {
       "name": "Burble Hatchet",
-      "price": 138446,
+      "price": 138688,
       "hrid": "/items/burble_hatchet"
     },
     {
       "name": "Crimson Hatchet",
-      "price": 278254,
+      "price": 278496,
       "hrid": "/items/crimson_hatchet"
     },
     {
       "name": "Rainbow Hatchet",
-      "price": 559922,
+      "price": 552523,
       "hrid": "/items/rainbow_hatchet"
     },
     {
       "name": "Holy Hatchet",
-      "price": 1111832,
+      "price": 1104434,
       "hrid": "/items/holy_hatchet"
     },
     {
@@ -112,32 +112,32 @@
     },
     {
       "name": "Verdant Hammer",
-      "price": 23279,
+      "price": 23301,
       "hrid": "/items/verdant_hammer"
     },
     {
       "name": "Azure Hammer",
-      "price": 62947,
+      "price": 62970,
       "hrid": "/items/azure_hammer"
     },
     {
       "name": "Burble Hammer",
-      "price": 138506,
+      "price": 138748,
       "hrid": "/items/burble_hammer"
     },
     {
       "name": "Crimson Hammer",
-      "price": 278374,
+      "price": 278617,
       "hrid": "/items/crimson_hammer"
     },
     {
       "name": "Rainbow Hammer",
-      "price": 560166,
+      "price": 552768,
       "hrid": "/items/rainbow_hammer"
     },
     {
       "name": "Holy Hammer",
-      "price": 1112338,
+      "price": 1104940,
       "hrid": "/items/holy_hammer"
     },
     {
@@ -147,32 +147,32 @@
     },
     {
       "name": "Verdant Chisel",
-      "price": 23279,
+      "price": 23301,
       "hrid": "/items/verdant_chisel"
     },
     {
       "name": "Azure Chisel",
-      "price": 62947,
+      "price": 62970,
       "hrid": "/items/azure_chisel"
     },
     {
       "name": "Burble Chisel",
-      "price": 138506,
+      "price": 138748,
       "hrid": "/items/burble_chisel"
     },
     {
       "name": "Crimson Chisel",
-      "price": 278374,
+      "price": 278617,
       "hrid": "/items/crimson_chisel"
     },
     {
       "name": "Rainbow Chisel",
-      "price": 560166,
+      "price": 552768,
       "hrid": "/items/rainbow_chisel"
     },
     {
       "name": "Holy Chisel",
-      "price": 1112338,
+      "price": 1104940,
       "hrid": "/items/holy_chisel"
     },
     {
@@ -202,12 +202,12 @@
     },
     {
       "name": "Rainbow Spatula",
-      "price": 591523,
+      "price": 583166,
       "hrid": "/items/rainbow_spatula"
     },
     {
       "name": "Holy Spatula",
-      "price": 1189320,
+      "price": 1180962,
       "hrid": "/items/holy_spatula"
     },
     {
@@ -237,12 +237,12 @@
     },
     {
       "name": "Rainbow Needle",
-      "price": 591523,
+      "price": 583166,
       "hrid": "/items/rainbow_needle"
     },
     {
       "name": "Holy Needle",
-      "price": 1189320,
+      "price": 1180962,
       "hrid": "/items/holy_needle"
     },
     {
@@ -272,12 +272,12 @@
     },
     {
       "name": "Rainbow Pot",
-      "price": 591523,
+      "price": 583166,
       "hrid": "/items/rainbow_pot"
     },
     {
       "name": "Holy Pot",
-      "price": 1189320,
+      "price": 1180962,
       "hrid": "/items/holy_pot"
     },
     {
@@ -307,12 +307,12 @@
     },
     {
       "name": "Rainbow Alembic",
-      "price": 591774,
+      "price": 583416,
       "hrid": "/items/rainbow_alembic"
     },
     {
       "name": "Holy Alembic",
-      "price": 1189839,
+      "price": 1181482,
       "hrid": "/items/holy_alembic"
     },
     {
@@ -342,47 +342,47 @@
     },
     {
       "name": "Rainbow Enhancer",
-      "price": 591774,
+      "price": 583416,
       "hrid": "/items/rainbow_enhancer"
     },
     {
       "name": "Holy Enhancer",
-      "price": 1189839,
+      "price": 1181482,
       "hrid": "/items/holy_enhancer"
     },
     {
       "name": "Cheese Bulwark",
-      "price": 13782,
+      "price": 13341,
       "hrid": "/items/cheese_bulwark"
     },
     {
       "name": "Verdant Bulwark",
-      "price": 46543,
+      "price": 46102,
       "hrid": "/items/verdant_bulwark"
     },
     {
       "name": "Azure Bulwark",
-      "price": 116505,
+      "price": 116064,
       "hrid": "/items/azure_bulwark"
     },
     {
       "name": "Burble Bulwark",
-      "price": 248425,
+      "price": 247984,
       "hrid": "/items/burble_bulwark"
     },
     {
       "name": "Crimson Bulwark",
-      "price": 491867,
+      "price": 491426,
       "hrid": "/items/crimson_bulwark"
     },
     {
       "name": "Rainbow Bulwark",
-      "price": 1003554,
+      "price": 988787,
       "hrid": "/items/rainbow_bulwark"
     },
     {
       "name": "Holy Bulwark",
-      "price": 2015022,
+      "price": 2000255,
       "hrid": "/items/holy_bulwark"
     },
     {
@@ -412,12 +412,12 @@
     },
     {
       "name": "Rainbow Sword",
-      "price": 752571,
+      "price": 741826,
       "hrid": "/items/rainbow_sword"
     },
     {
       "name": "Holy Sword",
-      "price": 1515283,
+      "price": 1504538,
       "hrid": "/items/holy_sword"
     },
     {
@@ -427,32 +427,32 @@
     },
     {
       "name": "Verdant Spear",
-      "price": 26666,
+      "price": 26710,
       "hrid": "/items/verdant_spear"
     },
     {
       "name": "Azure Spear",
-      "price": 75915,
+      "price": 75959,
       "hrid": "/items/azure_spear"
     },
     {
       "name": "Burble Spear",
-      "price": 170358,
+      "price": 170842,
       "hrid": "/items/burble_spear"
     },
     {
       "name": "Crimson Spear",
-      "price": 345571,
+      "price": 346056,
       "hrid": "/items/crimson_spear"
     },
     {
       "name": "Rainbow Spear",
-      "price": 690099,
+      "price": 681272,
       "hrid": "/items/rainbow_spear"
     },
     {
       "name": "Holy Spear",
-      "price": 1361821,
+      "price": 1352993,
       "hrid": "/items/holy_spear"
     },
     {
@@ -462,267 +462,267 @@
     },
     {
       "name": "Verdant Mace",
-      "price": 26680,
+      "price": 26725,
       "hrid": "/items/verdant_mace"
     },
     {
       "name": "Azure Mace",
-      "price": 75945,
+      "price": 75989,
       "hrid": "/items/azure_mace"
     },
     {
       "name": "Burble Mace",
-      "price": 170418,
+      "price": 170903,
       "hrid": "/items/burble_mace"
     },
     {
       "name": "Crimson Mace",
-      "price": 345693,
+      "price": 346178,
       "hrid": "/items/crimson_mace"
     },
     {
       "name": "Rainbow Mace",
-      "price": 690346,
+      "price": 681519,
       "hrid": "/items/rainbow_mace"
     },
     {
       "name": "Holy Mace",
-      "price": 1362334,
+      "price": 1353506,
       "hrid": "/items/holy_mace"
     },
     {
       "name": "Cheese Buckler",
-      "price": 7167,
+      "price": 6947,
       "hrid": "/items/cheese_buckler"
     },
     {
       "name": "Verdant Buckler",
-      "price": 24054,
+      "price": 23834,
       "hrid": "/items/verdant_buckler"
     },
     {
       "name": "Azure Buckler",
-      "price": 59845,
+      "price": 59624,
       "hrid": "/items/azure_buckler"
     },
     {
       "name": "Burble Buckler",
-      "price": 127279,
+      "price": 127059,
       "hrid": "/items/burble_buckler"
     },
     {
       "name": "Crimson Buckler",
-      "price": 251670,
+      "price": 251450,
       "hrid": "/items/crimson_buckler"
     },
     {
       "name": "Rainbow Buckler",
-      "price": 512578,
+      "price": 505194,
       "hrid": "/items/rainbow_buckler"
     },
     {
       "name": "Holy Buckler",
-      "price": 1027990,
+      "price": 1020606,
       "hrid": "/items/holy_buckler"
     },
     {
       "name": "Cheese Helmet",
-      "price": 6065,
+      "price": 5881,
       "hrid": "/items/cheese_helmet"
     },
     {
       "name": "Verdant Helmet",
-      "price": 20307,
+      "price": 20124,
       "hrid": "/items/verdant_helmet"
     },
     {
       "name": "Azure Helmet",
-      "price": 50404,
+      "price": 50220,
       "hrid": "/items/azure_helmet"
     },
     {
       "name": "Burble Helmet",
-      "price": 107093,
+      "price": 106910,
       "hrid": "/items/burble_helmet"
     },
     {
       "name": "Crimson Helmet",
-      "price": 211648,
+      "price": 211464,
       "hrid": "/items/crimson_helmet"
     },
     {
       "name": "Rainbow Helmet",
-      "price": 430770,
+      "price": 424616,
       "hrid": "/items/rainbow_helmet"
     },
     {
       "name": "Holy Helmet",
-      "price": 863529,
+      "price": 857376,
       "hrid": "/items/holy_helmet"
     },
     {
       "name": "Cheese Plate Body",
-      "price": 9379,
+      "price": 9085,
       "hrid": "/items/cheese_plate_body"
     },
     {
       "name": "Verdant Plate Body",
-      "price": 31570,
+      "price": 31276,
       "hrid": "/items/verdant_plate_body"
     },
     {
       "name": "Azure Plate Body",
-      "price": 78773,
+      "price": 78479,
       "hrid": "/items/azure_plate_body"
     },
     {
       "name": "Burble Plate Body",
-      "price": 167745,
+      "price": 167451,
       "hrid": "/items/burble_plate_body"
     },
     {
       "name": "Crimson Plate Body",
-      "price": 331905,
+      "price": 331611,
       "hrid": "/items/crimson_plate_body"
     },
     {
       "name": "Rainbow Plate Body",
-      "price": 676581,
+      "price": 666736,
       "hrid": "/items/rainbow_plate_body"
     },
     {
       "name": "Holy Plate Body",
-      "price": 1357717,
+      "price": 1347873,
       "hrid": "/items/holy_plate_body"
     },
     {
       "name": "Cheese Plate Legs",
-      "price": 8274,
+      "price": 8017,
       "hrid": "/items/cheese_plate_legs"
     },
     {
       "name": "Verdant Plate Legs",
-      "price": 27816,
+      "price": 27559,
       "hrid": "/items/verdant_plate_legs"
     },
     {
       "name": "Azure Plate Legs",
-      "price": 69316,
+      "price": 69059,
       "hrid": "/items/azure_plate_legs"
     },
     {
       "name": "Burble Plate Legs",
-      "price": 147528,
+      "price": 147271,
       "hrid": "/items/burble_plate_legs"
     },
     {
       "name": "Crimson Plate Legs",
-      "price": 291818,
+      "price": 291561,
       "hrid": "/items/crimson_plate_legs"
     },
     {
       "name": "Rainbow Plate Legs",
-      "price": 594642,
+      "price": 586028,
       "hrid": "/items/rainbow_plate_legs"
     },
     {
       "name": "Holy Plate Legs",
-      "price": 1192984,
+      "price": 1184370,
       "hrid": "/items/holy_plate_legs"
     },
     {
       "name": "Cheese Gauntlets",
-      "price": 4951,
+      "price": 4804,
       "hrid": "/items/cheese_gauntlets"
     },
     {
       "name": "Verdant Gauntlets",
-      "price": 16525,
+      "price": 16378,
       "hrid": "/items/verdant_gauntlets"
     },
     {
       "name": "Azure Gauntlets",
-      "price": 40888,
+      "price": 40741,
       "hrid": "/items/azure_gauntlets"
     },
     {
       "name": "Burble Gauntlets",
-      "price": 86756,
+      "price": 86609,
       "hrid": "/items/burble_gauntlets"
     },
     {
       "name": "Crimson Gauntlets",
-      "price": 171323,
+      "price": 171176,
       "hrid": "/items/crimson_gauntlets"
     },
     {
       "name": "Rainbow Gauntlets",
-      "price": 348346,
+      "price": 343424,
       "hrid": "/items/rainbow_gauntlets"
     },
     {
       "name": "Holy Gauntlets",
-      "price": 697793,
+      "price": 692871,
       "hrid": "/items/holy_gauntlets"
     },
     {
       "name": "Cheese Boots",
-      "price": 4951,
+      "price": 4804,
       "hrid": "/items/cheese_boots"
     },
     {
       "name": "Verdant Boots",
-      "price": 16520,
+      "price": 16373,
       "hrid": "/items/verdant_boots"
     },
     {
       "name": "Azure Boots",
-      "price": 40876,
+      "price": 40729,
       "hrid": "/items/azure_boots"
     },
     {
       "name": "Burble Boots",
-      "price": 86729,
+      "price": 86582,
       "hrid": "/items/burble_boots"
     },
     {
       "name": "Crimson Boots",
-      "price": 171267,
+      "price": 171120,
       "hrid": "/items/crimson_boots"
     },
     {
       "name": "Rainbow Boots",
-      "price": 348230,
+      "price": 343307,
       "hrid": "/items/rainbow_boots"
     },
     {
       "name": "Holy Boots",
-      "price": 697550,
+      "price": 692628,
       "hrid": "/items/holy_boots"
     },
     {
       "name": "Rough Hood",
-      "price": 9555,
+      "price": 9371,
       "hrid": "/items/rough_hood"
     },
     {
       "name": "Reptile Hood",
-      "price": 36758,
+      "price": 35656,
       "hrid": "/items/reptile_hood"
     },
     {
       "name": "Gobo Hood",
-      "price": 88432,
+      "price": 88937,
       "hrid": "/items/gobo_hood"
     },
     {
       "name": "Beast Hood",
-      "price": 206747,
+      "price": 207252,
       "hrid": "/items/beast_hood"
     },
     {
       "name": "Umbral Hood",
-      "price": 528887,
+      "price": 529392,
       "hrid": "/items/umbral_hood"
     },
     {
@@ -752,27 +752,27 @@
     },
     {
       "name": "Rough Tunic",
-      "price": 14970,
+      "price": 14676,
       "hrid": "/items/rough_tunic"
     },
     {
       "name": "Reptile Tunic",
-      "price": 57646,
+      "price": 55883,
       "hrid": "/items/reptile_tunic"
     },
     {
       "name": "Gobo Tunic",
-      "price": 138362,
+      "price": 139171,
       "hrid": "/items/gobo_tunic"
     },
     {
       "name": "Beast Tunic",
-      "price": 323101,
+      "price": 323909,
       "hrid": "/items/beast_tunic"
     },
     {
       "name": "Umbral Tunic",
-      "price": 829421,
+      "price": 830229,
       "hrid": "/items/umbral_tunic"
     },
     {
@@ -802,27 +802,27 @@
     },
     {
       "name": "Rough Chaps",
-      "price": 13163,
+      "price": 12905,
       "hrid": "/items/rough_chaps"
     },
     {
       "name": "Reptile Chaps",
-      "price": 50673,
+      "price": 49130,
       "hrid": "/items/reptile_chaps"
     },
     {
       "name": "Gobo Chaps",
-      "price": 121689,
+      "price": 122396,
       "hrid": "/items/gobo_chaps"
     },
     {
       "name": "Beast Chaps",
-      "price": 284233,
+      "price": 284940,
       "hrid": "/items/beast_chaps"
     },
     {
       "name": "Umbral Chaps",
-      "price": 729038,
+      "price": 729745,
       "hrid": "/items/umbral_chaps"
     },
     {
@@ -852,27 +852,27 @@
     },
     {
       "name": "Rough Bracers",
-      "price": 7748,
+      "price": 7601,
       "hrid": "/items/rough_bracers"
     },
     {
       "name": "Reptile Bracers",
-      "price": 29787,
+      "price": 28905,
       "hrid": "/items/reptile_bracers"
     },
     {
       "name": "Gobo Bracers",
-      "price": 71763,
+      "price": 72167,
       "hrid": "/items/gobo_bracers"
     },
     {
       "name": "Beast Bracers",
-      "price": 167895,
+      "price": 168299,
       "hrid": "/items/beast_bracers"
     },
     {
       "name": "Umbral Bracers",
-      "price": 428547,
+      "price": 428952,
       "hrid": "/items/umbral_bracers"
     },
     {
@@ -902,27 +902,27 @@
     },
     {
       "name": "Rough Boots",
-      "price": 7743,
+      "price": 7596,
       "hrid": "/items/rough_boots"
     },
     {
       "name": "Reptile Boots",
-      "price": 29761,
+      "price": 28880,
       "hrid": "/items/reptile_boots"
     },
     {
       "name": "Gobo Boots",
-      "price": 71685,
+      "price": 72089,
       "hrid": "/items/gobo_boots"
     },
     {
       "name": "Beast Boots",
-      "price": 167680,
+      "price": 168084,
       "hrid": "/items/beast_boots"
     },
     {
       "name": "Umbral Boots",
-      "price": 428020,
+      "price": 428424,
       "hrid": "/items/umbral_boots"
     },
     {
@@ -962,27 +962,27 @@
     },
     {
       "name": "Cedar Crossbow",
-      "price": 74999,
+      "price": 76652,
       "hrid": "/items/cedar_crossbow"
     },
     {
       "name": "Purpleheart Crossbow",
-      "price": 179535,
+      "price": 181188,
       "hrid": "/items/purpleheart_crossbow"
     },
     {
       "name": "Ginkgo Crossbow",
-      "price": 378134,
+      "price": 379787,
       "hrid": "/items/ginkgo_crossbow"
     },
     {
       "name": "Redwood Crossbow",
-      "price": 683439,
+      "price": 685092,
       "hrid": "/items/redwood_crossbow"
     },
     {
       "name": "Arcane Crossbow",
-      "price": 1207984,
+      "price": 1209637,
       "hrid": "/items/arcane_crossbow"
     },
     {
@@ -997,27 +997,27 @@
     },
     {
       "name": "Cedar Water Staff",
-      "price": 74999,
+      "price": 76652,
       "hrid": "/items/cedar_water_staff"
     },
     {
       "name": "Purpleheart Water Staff",
-      "price": 179535,
+      "price": 181188,
       "hrid": "/items/purpleheart_water_staff"
     },
     {
       "name": "Ginkgo Water Staff",
-      "price": 378134,
+      "price": 379787,
       "hrid": "/items/ginkgo_water_staff"
     },
     {
       "name": "Redwood Water Staff",
-      "price": 683439,
+      "price": 685092,
       "hrid": "/items/redwood_water_staff"
     },
     {
       "name": "Arcane Water Staff",
-      "price": 1207984,
+      "price": 1209637,
       "hrid": "/items/arcane_water_staff"
     },
     {
@@ -1032,27 +1032,27 @@
     },
     {
       "name": "Cedar Nature Staff",
-      "price": 75040,
+      "price": 76693,
       "hrid": "/items/cedar_nature_staff"
     },
     {
       "name": "Purpleheart Nature Staff",
-      "price": 179622,
+      "price": 181275,
       "hrid": "/items/purpleheart_nature_staff"
     },
     {
       "name": "Ginkgo Nature Staff",
-      "price": 378309,
+      "price": 379962,
       "hrid": "/items/ginkgo_nature_staff"
     },
     {
       "name": "Redwood Nature Staff",
-      "price": 683797,
+      "price": 685450,
       "hrid": "/items/redwood_nature_staff"
     },
     {
       "name": "Arcane Nature Staff",
-      "price": 1208727,
+      "price": 1210380,
       "hrid": "/items/arcane_nature_staff"
     },
     {
@@ -1067,27 +1067,27 @@
     },
     {
       "name": "Cedar Fire Staff",
-      "price": 75086,
+      "price": 76739,
       "hrid": "/items/cedar_fire_staff"
     },
     {
       "name": "Purpleheart Fire Staff",
-      "price": 179714,
+      "price": 181367,
       "hrid": "/items/purpleheart_fire_staff"
     },
     {
       "name": "Ginkgo Fire Staff",
-      "price": 378493,
+      "price": 380146,
       "hrid": "/items/ginkgo_fire_staff"
     },
     {
       "name": "Redwood Fire Staff",
-      "price": 684171,
+      "price": 685824,
       "hrid": "/items/redwood_fire_staff"
     },
     {
       "name": "Arcane Fire Staff",
-      "price": 1209501,
+      "price": 1211154,
       "hrid": "/items/arcane_fire_staff"
     },
     {
@@ -1102,64 +1102,64 @@
     },
     {
       "name": "Cedar Bow",
-      "price": 97332,
+      "price": 99536,
       "hrid": "/items/cedar_bow"
     },
     {
       "name": "Purpleheart Bow",
-      "price": 235832,
+      "price": 238036,
       "hrid": "/items/purpleheart_bow"
     },
     {
       "name": "Ginkgo Bow",
-      "price": 499049,
+      "price": 501253,
       "hrid": "/items/ginkgo_bow"
     },
     {
       "name": "Redwood Bow",
-      "price": 903158,
+      "price": 905362,
       "hrid": "/items/redwood_bow"
     },
     {
       "name": "Arcane Bow",
-      "price": 1596965,
+      "price": 1599170,
       "hrid": "/items/arcane_bow"
     },
     {
       "name": "Wooden Shield",
-      "price": 4623,
+      "price": 4733,
       "hrid": "/items/wooden_shield"
     },
     {
       "name": "Birch Shield",
-      "price": 18185,
+      "price": 18295,
       "hrid": "/items/birch_shield"
     },
     {
       "name": "Cedar Shield",
-      "price": 51740,
+      "price": 52952,
       "hrid": "/items/cedar_shield"
     },
     {
       "name": "Purpleheart Shield",
-      "price": 122419,
+      "price": 123631,
       "hrid": "/items/purpleheart_shield"
     },
     {
       "name": "Ginkgo Shield",
-      "price": 256606,
+      "price": 257819,
       "hrid": "/items/ginkgo_shield"
     },
     {
       "name": "Redwood Shield",
-      "price": 463538,
+      "price": 464750,
       "hrid": "/items/redwood_shield"
     },
     {
       "name": "Arcane Shield",
-      "price": 819725,
+      "price": 820938,
       "hrid": "/items/arcane_shield"
     }
   ],
-  "time": 1773634365.807
+  "time": 1773635260.905
 }
