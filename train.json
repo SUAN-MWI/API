@@ -12,27 +12,27 @@
     },
     {
       "name": "Azure Brush",
-      "price": 67068,
+      "price": 66994,
       "hrid": "/items/azure_brush"
     },
     {
       "name": "Burble Brush",
-      "price": 155719,
+      "price": 155426,
       "hrid": "/items/burble_brush"
     },
     {
       "name": "Crimson Brush",
-      "price": 333896,
+      "price": 332941,
       "hrid": "/items/crimson_brush"
     },
     {
       "name": "Rainbow Brush",
-      "price": 632310,
+      "price": 630878,
       "hrid": "/items/rainbow_brush"
     },
     {
       "name": "Holy Brush",
-      "price": 1243792,
+      "price": 1242359,
       "hrid": "/items/holy_brush"
     },
     {
@@ -47,27 +47,27 @@
     },
     {
       "name": "Azure Shears",
-      "price": 67068,
+      "price": 66994,
       "hrid": "/items/azure_shears"
     },
     {
       "name": "Burble Shears",
-      "price": 155719,
+      "price": 155426,
       "hrid": "/items/burble_shears"
     },
     {
       "name": "Crimson Shears",
-      "price": 333896,
+      "price": 332941,
       "hrid": "/items/crimson_shears"
     },
     {
       "name": "Rainbow Shears",
-      "price": 632310,
+      "price": 630878,
       "hrid": "/items/rainbow_shears"
     },
     {
       "name": "Holy Shears",
-      "price": 1243792,
+      "price": 1242359,
       "hrid": "/items/holy_shears"
     },
     {
@@ -82,27 +82,27 @@
     },
     {
       "name": "Azure Hatchet",
-      "price": 67068,
+      "price": 66994,
       "hrid": "/items/azure_hatchet"
     },
     {
       "name": "Burble Hatchet",
-      "price": 155719,
+      "price": 155426,
       "hrid": "/items/burble_hatchet"
     },
     {
       "name": "Crimson Hatchet",
-      "price": 333896,
+      "price": 332941,
       "hrid": "/items/crimson_hatchet"
     },
     {
       "name": "Rainbow Hatchet",
-      "price": 632310,
+      "price": 630878,
       "hrid": "/items/rainbow_hatchet"
     },
     {
       "name": "Holy Hatchet",
-      "price": 1243792,
+      "price": 1242359,
       "hrid": "/items/holy_hatchet"
     },
     {
@@ -117,27 +117,27 @@
     },
     {
       "name": "Azure Hammer",
-      "price": 67098,
+      "price": 67024,
       "hrid": "/items/azure_hammer"
     },
     {
       "name": "Burble Hammer",
-      "price": 155780,
+      "price": 155486,
       "hrid": "/items/burble_hammer"
     },
     {
       "name": "Crimson Hammer",
-      "price": 334016,
+      "price": 333061,
       "hrid": "/items/crimson_hammer"
     },
     {
       "name": "Rainbow Hammer",
-      "price": 632556,
+      "price": 631123,
       "hrid": "/items/rainbow_hammer"
     },
     {
       "name": "Holy Hammer",
-      "price": 1244300,
+      "price": 1242867,
       "hrid": "/items/holy_hammer"
     },
     {
@@ -152,27 +152,27 @@
     },
     {
       "name": "Azure Chisel",
-      "price": 67098,
+      "price": 67024,
       "hrid": "/items/azure_chisel"
     },
     {
       "name": "Burble Chisel",
-      "price": 155780,
+      "price": 155486,
       "hrid": "/items/burble_chisel"
     },
     {
       "name": "Crimson Chisel",
-      "price": 334016,
+      "price": 333061,
       "hrid": "/items/crimson_chisel"
     },
     {
       "name": "Rainbow Chisel",
-      "price": 632556,
+      "price": 631123,
       "hrid": "/items/rainbow_chisel"
     },
     {
       "name": "Holy Chisel",
-      "price": 1244300,
+      "price": 1242867,
       "hrid": "/items/holy_chisel"
     },
     {
@@ -432,27 +432,27 @@
     },
     {
       "name": "Azure Spear",
-      "price": 81128,
+      "price": 80981,
       "hrid": "/items/azure_spear"
     },
     {
       "name": "Burble Spear",
-      "price": 192166,
+      "price": 191579,
       "hrid": "/items/burble_spear"
     },
     {
       "name": "Crimson Spear",
-      "price": 415171,
+      "price": 413260,
       "hrid": "/items/crimson_spear"
     },
     {
       "name": "Rainbow Spear",
-      "price": 781221,
+      "price": 778355,
       "hrid": "/items/rainbow_spear"
     },
     {
       "name": "Holy Spear",
-      "price": 1522433,
+      "price": 1519568,
       "hrid": "/items/holy_spear"
     },
     {
@@ -467,27 +467,27 @@
     },
     {
       "name": "Azure Mace",
-      "price": 81158,
+      "price": 81011,
       "hrid": "/items/azure_mace"
     },
     {
       "name": "Burble Mace",
-      "price": 192228,
+      "price": 191640,
       "hrid": "/items/burble_mace"
     },
     {
       "name": "Crimson Mace",
-      "price": 415293,
+      "price": 413382,
       "hrid": "/items/crimson_mace"
     },
     {
       "name": "Rainbow Mace",
-      "price": 781469,
+      "price": 778604,
       "hrid": "/items/rainbow_mace"
     },
     {
       "name": "Holy Mace",
-      "price": 1522947,
+      "price": 1520082,
       "hrid": "/items/holy_mace"
     },
     {
@@ -1161,5 +1161,5 @@
       "hrid": "/items/arcane_shield"
     }
   ],
-  "time": 1775599060.94
+  "time": 1775599960.716
 }
