@@ -2,1164 +2,1164 @@
   "train": [
     {
       "name": "Cheese Brush",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Brush",
-      "price": 28520,
-      "": 479.90528216555686
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Brush",
-      "price": 72108,
-      "": 3191.9291901879624
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Brush",
-      "price": 167295,
-      "": 6104.908747762645
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Brush",
-      "price": 354679,
-      "": 8520.719717440952
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Brush",
-      "price": 650828,
-      "": -20828.797212913167
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Brush",
-      "price": 1220823,
-      "": 29176.045378112933
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Shears",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Shears",
-      "price": 28520,
-      "": 479.90528216555686
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Shears",
-      "price": 72108,
-      "": 3191.9291901879624
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Shears",
-      "price": 167295,
-      "": 6704.908747762645
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Shears",
-      "price": 354679,
-      "": 8520.719717440952
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Shears",
-      "price": 650828,
-      "": 26671.202787086833
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Shears",
-      "price": 1220823,
-      "": 39176.04537811293
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Hatchet",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Hatchet",
-      "price": 28520,
-      "": 379.90528216555686
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Hatchet",
-      "price": 72108,
-      "": 3191.9291901879624
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Hatchet",
-      "price": 167295,
-      "": 3704.9087477626454
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Hatchet",
-      "price": 354679,
-      "": 8520.719717440952
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Hatchet",
-      "price": 650828,
-      "": 24171.202787086833
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Hatchet",
-      "price": 1220823,
-      "": -10823.954621887067
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Hammer",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Hammer",
-      "price": 28536,
-      "": 163.1544242082091
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Hammer",
-      "price": 72142,
-      "": 3157.3752025847934
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Hammer",
-      "price": 167363,
-      "": 6036.922890069021
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Hammer",
-      "price": 354809,
-      "": 8390.352958804287
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Hammer",
-      "price": 651081,
-      "": 23918.961879421375
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Hammer",
-      "price": 1221315,
-      "": 38684.231272095814
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Chisel",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Chisel",
-      "price": 28536,
-      "": 463.1544242082091
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Chisel",
-      "price": 72142,
-      "": 3157.3752025847934
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Chisel",
-      "price": 167363,
-      "": 6636.922890069021
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Chisel",
-      "price": 354809,
-      "": 8390.352958804287
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Chisel",
-      "price": 651081,
-      "": 3918.9618794213748
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Chisel",
-      "price": 1221315,
-      "": 33684.231272095814
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Spatula",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Spatula",
-      "price": 31209,
-      "": 590.9919752286187
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Spatula",
-      "price": 74691,
-      "": 3908.320508707242
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Spatula",
-      "price": 172041,
-      "": 6158.828196191491
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Spatula",
-      "price": 362844,
-      "": 9955.761530232907
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Spatula",
-      "price": 665376,
-      "": 22123.979022278683
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Spatula",
-      "price": 1258552,
-      "": 31447.756170054898
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Needle",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Needle",
-      "price": 31209,
-      "": -369.0080247713813
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Needle",
-      "price": 74691,
-      "": 3908.320508707242
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Needle",
-      "price": 172041,
-      "": 6158.828196191491
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Needle",
-      "price": 362844,
-      "": 9955.761530232907
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Needle",
-      "price": 665376,
-      "": 27123.979022278683
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Needle",
-      "price": 1258552,
-      "": 26447.756170054898
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Pot",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Pot",
-      "price": 31209,
-      "": 710.9919752286187
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Pot",
-      "price": 74691,
-      "": 3908.320508707242
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Pot",
-      "price": 172041,
-      "": 6158.828196191491
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Pot",
-      "price": 362844,
-      "": 9955.761530232907
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Pot",
-      "price": 665376,
-      "": 22123.979022278683
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Pot",
-      "price": 1258552,
-      "": 11447.756170054898
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Alembic",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Alembic",
-      "price": 31225,
-      "": 334.0167628269555
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Alembic",
-      "price": 74726,
-      "": 2973.2925084120216
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Alembic",
-      "price": 172110,
-      "": 5489.873478705616
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Alembic",
-      "price": 362976,
-      "": 9823.448307965242
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Alembic",
-      "price": 665632,
-      "": 24367.76244437194
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Alembic",
-      "price": 1259052,
-      "": 15947.711852891603
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Enhancer",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Enhancer",
-      "price": 31225,
-      "": 94.01676282695553
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Enhancer",
-      "price": 74726,
-      "": 3573.2925084120216
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Enhancer",
-      "price": 172110,
-      "": 4889.873478705616
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Enhancer",
-      "price": 362976,
-      "": 9823.448307965242
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Enhancer",
-      "price": 665632,
-      "": 26867.76244437194
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Enhancer",
-      "price": 1259052,
-      "": -4052.2881471083965
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Bulwark",
-      "price": 14424,
-      "": -6804.445114490785
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Bulwark",
-      "price": 56482,
-      "": -6482.198022584831
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Bulwark",
-      "price": 129212,
-      "": -46112.031694771635
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Bulwark",
-      "price": 292873,
-      "": -8873.541872384609
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Bulwark",
-      "price": 614284,
-      "": 13215.655403497396
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Bulwark",
-      "price": 1122465,
-      "": 17534.018557087984
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Bulwark",
-      "price": 2120092,
-      "": 47907.321027652826
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Sword",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Sword",
-      "price": 37918,
-      "": 2881.3171475958225
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Sword",
-      "price": 93062,
-      "": 2137.263264494395
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Sword",
-      "price": 216866,
-      "": 4733.361050263164
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Sword",
-      "price": 459781,
-      "": 12218.57638188731
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Sword",
-      "price": 844316,
-      "": 22683.570679849945
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Sword",
-      "price": 1598768,
-      "": 21231.90600359137
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Spear",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Spear",
-      "price": 32590,
-      "": 529.0017001477463
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Spear",
-      "price": 87998,
-      "": 3201.0520686801756
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Spear",
-      "price": 207577,
-      "": 6022.041357755108
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Spear",
-      "price": 443841,
-      "": 12158.34959660197
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Spear",
-      "price": 815976,
-      "": 24023.248563137604
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Spear",
-      "price": 1524782,
-      "": 35217.08081093058
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Mace",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Mace",
-      "price": 32607,
-      "": 2672.139224785835
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Mace",
-      "price": 88033,
-      "": 3166.2622864283767
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Mace",
-      "price": 207646,
-      "": 5153.57364514636
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Mace",
-      "price": 443972,
-      "": 12027.015031441697
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Mace",
-      "price": 816230,
-      "": 26769.031528383144
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Mace",
-      "price": 1525278,
-      "": 40721.17734965077
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Buckler",
-      "price": 7665,
-      "": -4305.015482444136
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Buckler",
-      "price": 29513,
-      "": -8073.02650247917
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Buckler",
-      "price": 67169,
-      "": -7169.753205873698
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Buckler",
-      "price": 151300,
-      "": 2299.0155195219268
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Buckler",
-      "price": 316064,
-      "": 9135.055246740754
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Buckler",
-      "price": 577627,
-      "": -577628.9861270568
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Buckler",
-      "price": 1090231,
-      "": -42231.416310373694
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Helmet",
-      "price": 6538,
-      "": 61.058395106884745
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Helmet",
-      "price": 25019,
-      "": 980.4065587453224
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Helmet",
-      "price": 56832,
-      "": 3417.6774063712073
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Helmet",
-      "price": 127711,
-      "": 5288.633886868876
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Helmet",
-      "price": 266372,
-      "": 10627.138512046891
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Helmet",
-      "price": 486843,
-      "": 11156.741628045333
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Helmet",
-      "price": 918630,
-      "": 17369.931852891692
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Plate Body",
-      "price": 9926,
-      "": 313.81837755634297
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Plate Body",
-      "price": 38525,
-      "": 3714.213929422993
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Plate Body",
-      "price": 87898,
-      "": 1501.9332230812724
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Plate Body",
-      "price": 198585,
-      "": 3814.48422067074
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Plate Body",
-      "price": 415651,
-      "": 11548.67251918069
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Plate Body",
-      "price": 759589,
-      "": 11410.570106673636
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Plate Body",
-      "price": 1434200,
-      "": 30799.928970227484
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Plate Legs",
-      "price": 8797,
-      "": 242.9182101332044
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Plate Legs",
-      "price": 34023,
-      "": 2936.336330541504
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Plate Legs",
-      "price": 77542,
-      "": 4657.304341362615
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Plate Legs",
-      "price": 174960,
-      "": 7439.452678611211
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Plate Legs",
-      "price": 365891,
-      "": 8508.668236941914
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Plate Legs",
-      "price": 668673,
-      "": 13826.998706163955
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Plate Legs",
-      "price": 1262341,
-      "": 42658.75148563576
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Gauntlets",
-      "price": 5398,
-      "": -178.22467330106156
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Gauntlets",
-      "price": 20484,
-      "": 955.8583720856222
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Gauntlets",
-      "price": 46408,
-      "": 3991.792244086246
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Gauntlets",
-      "price": 103951,
-      "": 6048.828805365221
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Gauntlets",
-      "price": 216353,
-      "": 10046.36862678526
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Gauntlets",
-      "price": 395425,
-      "": 17374.58537372743
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Gauntlets",
-      "price": 745793,
-      "": -33293.97726171464
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cheese Boots",
-      "price": 5398,
-      "": -118.22467330106156
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Verdant Boots",
-      "price": 20478,
-      "": 801.2244596567252
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Azure Boots",
-      "price": 46394,
-      "": 3605.907390591281
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Burble Boots",
-      "price": 103920,
-      "": 6079.357984661707
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Crimson Boots",
-      "price": 216292,
-      "": 7707.492663633224
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rainbow Boots",
-      "price": 395304,
-      "": 4695.412161119108
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Holy Boots",
-      "price": 745555,
-      "": 16444.052782046027
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rough Hood",
-      "price": 11046,
-      "": 953.1420685762732
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Reptile Hood",
-      "price": 51092,
-      "": -2092.16890601498
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Gobo Hood",
-      "price": 109896,
-      "": 12103.949368851347
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Beast Hood",
-      "price": 236359,
-      "": 2040.0557201081829
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Umbral Hood",
-      "price": 588328,
-      "": -135528.87162516615
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cotton Hat",
-      "price": 5615,
-      "": -5616.633441627809
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Linen Hat",
-      "price": 14648,
-      "": 531.3474205156344
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Bamboo Hat",
-      "price": 33533,
-      "": 4226.965695381965
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Silk Hat",
-      "price": 222347,
-      "": 20652.61490378171
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Radiant Hat",
-      "price": 641772,
-      "": -6772.120604757918
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rough Tunic",
-      "price": 17148,
-      "": -948.0469555800664
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Reptile Tunic",
-      "price": 79837,
-      "": 262.3227522550151
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Gobo Tunic",
-      "price": 170813,
-      "": 16386.44678268145
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Beast Tunic",
-      "price": 366140,
-      "": 27459.292770968867
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Umbral Tunic",
-      "price": 915826,
-      "": 8173.609061785042
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cotton Robe Top",
-      "price": 8458,
-      "": -208.08777190659384
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Linen Robe Top",
-      "price": 21528,
-      "": 631.9488747039977
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Bamboo Robe Top",
-      "price": 48632,
-      "": 6367.2729051304195
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Silk Robe Top",
-      "price": 343720,
-      "": 33879.387464846484
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Radiant Robe Top",
-      "price": 1001335,
-      "": -25335.58930556185
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rough Chaps",
-      "price": 15111,
-      "": 1088.8093979645073
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Reptile Chaps",
-      "price": 70244,
-      "": 9855.953112386429
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Gobo Chaps",
-      "price": 150474,
-      "": -150475.84834280677
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Beast Chaps",
-      "price": 322795,
-      "": 20404.14845402504
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Umbral Chaps",
-      "price": 806467,
-      "": 36532.94579162169
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cotton Robe Bottoms",
-      "price": 7507,
-      "": -82.47631632120556
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Linen Robe Bottoms",
-      "price": 19223,
-      "": 56.87596952929016
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Bamboo Robe Bottoms",
-      "price": 43566,
-      "": 4833.374514336072
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Silk Robe Bottoms",
-      "price": 303178,
-      "": 20821.73131116794
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Radiant Robe Bottoms",
-      "price": 881287,
-      "": 82712.39722019329
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rough Bracers",
-      "price": 9010,
-      "": 469.6420502973342
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Reptile Bracers",
-      "price": 41499,
-      "": 420.06793659491086
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Gobo Bracers",
-      "price": 89561,
-      "": 7638.5592500394705
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Beast Bracers",
-      "price": 193026,
-      "": 5373.677742393833
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Umbral Bracers",
-      "price": 478997,
-      "": 7002.957288764359
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cotton Gloves",
-      "price": 4665,
-      "": 86.62164213406868
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Linen Gloves",
-      "price": 12345,
-      "": 1854.8809978194004
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Bamboo Gloves",
-      "price": 28471,
-      "": -471.02768873604145
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Silk Gloves",
-      "price": 181816,
-      "": 4583.725089332642
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Radiant Gloves",
-      "price": 521751,
-      "": -180951.6418949091
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Rough Boots",
-      "price": 9004,
-      "": -2229.5577345255515
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Reptile Boots",
-      "price": 41470,
-      "": 129.8120716711055
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Gobo Boots",
-      "price": 89473,
-      "": 4926.173002848518
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Beast Boots",
-      "price": 192797,
-      "": 8002.329321795929
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Umbral Boots",
-      "price": 478473,
-      "": 21526.051232787315
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cotton Boots",
-      "price": 4659,
-      "": -339.5781426888161
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Linen Boots",
-      "price": 12315,
-      "": 1134.6251328955932
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Bamboo Boots",
-      "price": 28383,
-      "": 4736.5860640730025
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Silk Boots",
-      "price": 181587,
-      "": 7212.376668734738
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Radiant Boots",
-      "price": 521228,
-      "": 44771.45204911387
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Wooden Crossbow",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Birch Crossbow",
-      "price": 30385,
-      "": 1174.36037802407
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cedar Crossbow",
-      "price": 92364,
-      "": 12835.712696713745
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Purpleheart Crossbow",
-      "price": 225439,
-      "": 18560.830637722916
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Ginkgo Crossbow",
-      "price": 480641,
-      "": 71358.62368404138
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Redwood Crossbow",
-      "price": 879943,
-      "": 17056.07787540485
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Arcane Crossbow",
-      "price": 1589698,
-      "": 6301.107067760313
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Wooden Water Staff",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Birch Water Staff",
-      "price": 30385,
-      "": 1174.36037802407
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cedar Water Staff",
-      "price": 92364,
-      "": 7635.712696713745
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Purpleheart Water Staff",
-      "price": 225439,
-      "": 8160.830637722916
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Ginkgo Water Staff",
-      "price": 480641,
-      "": 27358.623684041377
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Redwood Water Staff",
-      "price": 879943,
-      "": 40056.07787540485
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Arcane Water Staff",
-      "price": 1589698,
-      "": 108301.10706776031
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Wooden Nature Staff",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Birch Nature Staff",
-      "price": 30407,
-      "": 1752.3539450457065
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cedar Nature Staff",
-      "price": 92412,
-      "": 9187.276966639372
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Purpleheart Nature Staff",
-      "price": 225537,
-      "": 24462.792378163285
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Ginkgo Nature Staff",
-      "price": 480831,
-      "": 15168.090004765254
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Redwood Nature Staff",
-      "price": 880315,
-      "": 119684.96325701522
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Arcane Nature Staff",
-      "price": 1590424,
-      "": 47575.30162725691
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Wooden Fire Staff",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Birch Fire Staff",
-      "price": 30433,
-      "": 1006.9755383371557
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cedar Fire Staff",
-      "price": 92465,
-      "": 9134.913324738562
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Purpleheart Fire Staff",
-      "price": 225640,
-      "": 24359.724907277036
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Ginkgo Fire Staff",
-      "price": 481029,
-      "": -2629.647202238848
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Redwood Fire Staff",
-      "price": 880697,
-      "": -7697.864902566886
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Arcane Fire Staff",
-      "price": 1591171,
-      "": 88828.33430187125
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Wooden Bow",
-      "price": 5000,
-      "": 0
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Birch Bow",
-      "price": 38017,
-      "": 1022.6396329491035
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cedar Bow",
-      "price": 119853,
-      "": 4146.528408877362
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Purpleheart Bow",
-      "price": 295863,
-      "": 4136.0046655546175
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Ginkgo Bow",
-      "price": 633634,
-      "": 31365.035031441716
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Redwood Bow",
-      "price": 1161461,
-      "": 128538.6780589954
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Arcane Bow",
-      "price": 2099402,
-      "": -389402.7010176964
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Wooden Shield",
-      "price": 5936,
-      "": -1296.9962190387205
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Birch Shield",
-      "price": 22744,
-      "": -8894.582064773222
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Cedar Shield",
-      "price": 65503,
-      "": -14703.91652409776
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Purpleheart Shield",
-      "price": 157005,
-      "": -21005.68308897206
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Ginkgo Shield",
-      "price": 332252,
-      "": -119452.78803766106
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Redwood Shield",
-      "price": 607183,
-      "": -266383.9808863825
+      "price": 0,
+      "": "#VALUE!"
     },
     {
       "name": "Arcane Shield",
-      "price": 1096203,
-      "": -518203.47135658097
+      "price": 0,
+      "": "#VALUE!"
     }
   ],
-  "time": 1794880660.834
+  "time": 1794881560.008
 }
